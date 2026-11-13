@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Get Yo Aligners</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Fri, 13 Nov 2026 10:16:46 -0800</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sagehumphries/GetYoAligners-releases/releases/download/v1.2/GetYoAligners-1.2.zip" length="1516307" type="application/octet-stream" sparkle:edSignature="ZjU2o/ieRvv5GTpWNhW6IriImJSShq04n4qo3vuTv5qZhZol6xGvrqQlz74owYc5WsNIeK36oqeHulSxaHxQBQ=="/>
+        </item>
+    </channel>
+</rss>
