@@ -4,11 +4,11 @@
         <title>Get Yo Aligners</title>
         <item>
             <title>1.2</title>
-            <pubDate>Fri, 13 Nov 2026 10:16:46 -0800</pubDate>
+            <pubDate>Fri, 13 Nov 2026 10:48:38 -0800</pubDate>
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagehumphries/GetYoAligners-releases/releases/download/v1.2/GetYoAligners-1.2.zip" length="1516307" type="application/octet-stream" sparkle:edSignature="ZjU2o/ieRvv5GTpWNhW6IriImJSShq04n4qo3vuTv5qZhZol6xGvrqQlz74owYc5WsNIeK36oqeHulSxaHxQBQ=="/>
+            <enclosure url="https://github.com/sagehumphries/GetYoAligners-releases/releases/download/v1.2/GetYoAligners-1.2.zip" length="1516339" type="application/octet-stream" sparkle:edSignature="s92iaYpZe9LOsXyWnBZcbudXJlnlqqEh5hUgrHsspBZBSyC+7tb8Vr56aI3HcqgKOelJFrkbzHGuWGuOF6sQDA=="/>
         </item>
     </channel>
 </rss>
